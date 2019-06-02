@@ -41,12 +41,11 @@ $dopost='login';
 $adminstyle='newdedecms';
 
 $post       = array(
-    'userid'        => 'liaohongchu',
-    'pwd' =>'liaohongchu@ok123',
+    'user23',
     'validate' =>123,
     'dopost'=>$dopost,
     'adminstyle'=>$adminstyle,
-    'gotopage'=>'http://www.xinqq163.com/dcms/index.php'
+    'gotopage'=>'http://www.xinqq163.cdex.php'
 );
 
 $url = 'http://www.xinqq163.com/dcms/login.php';        
