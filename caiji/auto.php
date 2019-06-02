@@ -32,11 +32,11 @@ $keyword    = 'PHP cURL';
 //参数方法二
 $post       = array(
     'userid'        => 'liaohongchu',
-    'pwd' =>'liaohongchu@ok123',
+    'pwd' =>'123',
     'validate' =>123,
     'dopost'=>$dopost,
     'adminstyle'=>$adminstyle,
-    'gotopage'=>'http://www.xinqq163.com/dcms/index.php'
+    'gotopage'=>'http://www.xinqq163.com/ndex.php'
 );
 //print_r ($post); exit;
 $url        = $loginurl;
