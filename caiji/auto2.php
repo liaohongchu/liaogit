@@ -9,13 +9,13 @@
     //echo file_get_contents($cookie_jar);
 
     //登陆认证
-    $url = 'http://www.xinqq163.com/dcms/login.php';
-    $gotopage='http://www.xinqq163.com/dcms/index.php';
+    $url = 'http://www.xinqq163.cn.php';
+    $gotopage='http://www.xinqq163.coex.php';
     
 
     //本来封装了函数，后来一直不成功，于是还原成了最原始的代码积木
     
-    $post_data='gotopage='.$gotopage.'&dopost=login&adminstyle=newdedecms&userid=liaohongchu&pwd=liaohongchu@ok123';    
+    $post_data='gotopage='.$gotopage.'&dopost=login&adminstyle=newdedecms&userid=li3';    
    
     $ch = curl_init();
     
